@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+	background-color: #fdff6a;
+}
+
+div  {
+	width: 130px;
+	height: 50px;
+	border: 2px solid black;
+	background-color:none;
+
+}
+#div1 {
+	text-align: center;
+	line-height: 45px;
+}
+
+section {
+	margin: auto;
+
+}
+
+#date1, #date2, #date3, #date4 {
+	width: 200px;
+	height: 30px;
+	background-color: #fdbcba;
+	color: black;
+	font-size: 20px;
+	margin-bottom: 2px;
+	text-align: center;
+	line-height: 30px;
+
+}
+
+#date1 {
+	margin-top: 250px;
+}
